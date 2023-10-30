@@ -832,7 +832,7 @@ controller:
                     sshHostKeyVerificationStrategy:
                       manuallyTrustedKeyVerificationStrategy:
                         requireInitialManualTrust: false
-                name: "mac1!"
+                name: "mac1"
                 # nodeProperties:
                 # - envVars:
                     # env:
